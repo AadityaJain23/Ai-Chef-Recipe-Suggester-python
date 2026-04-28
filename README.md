@@ -74,7 +74,6 @@ Unlike traditional apps, it does not require exact ingredients. It uses AI and f
 ```
 ai-chef-python/
 │── main.py
-│── setup_database.py
 │── dataset.csv
 │── requirements.txt
 │── README.md
